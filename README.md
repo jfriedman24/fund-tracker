@@ -11,7 +11,7 @@ This program helps visualize the portfolios of over 10,000 hedge funds. It uses 
 </figure>
 </div>
 
-Created by [Jack Friedman](https://jackfriedman.substack.com/)
+Created by Jack Friedman ([LinkedIn](https://www.linkedin.com/in/jack-friedman/), [Blog](https://jackfriedman.substack.com/))
 
 ## Disclaimer
 
