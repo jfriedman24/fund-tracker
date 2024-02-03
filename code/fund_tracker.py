@@ -281,4 +281,4 @@ if selected_option:
     make_graph(df_filtered, y_axis)
 
 # add signature
-st.markdown("Created by [Jack Friedman](https://jackfriedman.substack.com)")
+st.markdown("Created by Jack Friedman ([LinkedIn](https://www.linkedin.com/in/jack-friedman/), [Blog](https://jackfriedman.substack.com/))")
