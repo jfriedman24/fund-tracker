@@ -11,6 +11,8 @@ This program helps visualize the portfolios of over 10,000 hedge funds. It uses 
 </figure>
 </div>
 
+To run the code dashboard, navigate to the fund_tracker.py file directory in your terminal and execute "streamlit run fund_tracker.py".
+
 Created by Jack Friedman ([LinkedIn](https://www.linkedin.com/in/jack-friedman/), [Blog](https://jackfriedman.substack.com/))
 
 ## Disclaimer
