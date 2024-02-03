@@ -1,2 +1,17 @@
 # fund-tracker
-Program to visualize hedge fund portfolios
+This program helps visualize the portfolios of over 10,000 hedge funds. It uses data from 13F SEC Filings found on [13f.info](https://13f.info). 
+
+<div style="display: flex; justify-content: center;">
+<figure id = "demo-screenshot">
+    <img src=https://raw.githubusercontent.com/jfriedman24/fund-tracker/main/assets/app_demo.png
+         alt="Dashboard interface demo"
+         width = "1000">
+<!--     <figcaption> <em> <p style="text-align: center;">  </em> </p> </figcaption>
+    </p>  -->
+</figure>
+</div>
+
+
+## Disclaimer
+
+This content is provided for informational purposes only, and should not be relied upon as legal, business, investment, or tax advice. Furthermore, this content may not under any circumstances be relied upon when making a decision to invest. 
