@@ -17,7 +17,7 @@ Created by Jack Friedman ([LinkedIn](https://www.linkedin.com/in/jack-friedman/)
 ## Instructions
 
 <p>
-    To run the code dashboard, navigate to the <code>fund_tracker.py</code> directory in your terminal and execute the following command:
+    To run the code dashboard, navigate to the file directory in your terminal and execute the following command:
 </p>
 <pre style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
 streamlit run fund_tracker.py
