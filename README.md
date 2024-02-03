@@ -1,4 +1,5 @@
 # fund-tracker
+
 This program helps visualize the portfolios of over 10,000 hedge funds. It uses data from 13F SEC Filings found on [13f.info](https://13f.info). 
 
 <div style="display: flex; justify-content: center;">
@@ -11,9 +12,18 @@ This program helps visualize the portfolios of over 10,000 hedge funds. It uses 
 </figure>
 </div>
 
-To run the code dashboard, navigate to the fund_tracker.py file directory in your terminal and execute "streamlit run fund_tracker.py".
-
 Created by Jack Friedman ([LinkedIn](https://www.linkedin.com/in/jack-friedman/), [Blog](https://jackfriedman.substack.com/))
+
+## Instructions
+
+<p>
+    To run the code dashboard, navigate to the <code>fund_tracker.py</code> directory in your terminal and execute the following command:
+</p>
+<pre style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
+streamlit run fund_tracker.py
+</pre>
+
+
 
 ## Disclaimer
 
