@@ -234,7 +234,7 @@ def make_graph(df_filtered, y_axis):
 
     fig.update_layout(legend_title_text='Ticker')
     st.plotly_chart(fig)
-    st.markdown(f"Data source: [13f.info]({selected_url})")  # display data source
+    st.markdown(f"[Data source]({selected_url}) and [source code](https://github.com/jfriedman24/fund-tracker)")  # display data source
     
 
 
